@@ -1,5 +1,11 @@
 # Image Recogniser App - v2
-Final project for Udemy course
+This app first asks the user to register upon which the user can log in to the application.
+Steps to use this application
+* Register in the application
+* Signin to the application
+* Copy the url of the image in which you are interested in detecting the human face
+* Click detect image button.
+
 
 1. Clone this repo
 2. Run `npm install`
