@@ -1,4 +1,4 @@
-# Image Recogniser App - v2
+# Image Recogniser App 
 This app first asks the user to register upon which the user can log in to the application.
 Steps to use this application
 * Register in the application
